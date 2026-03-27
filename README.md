@@ -21,3 +21,9 @@ User enters CV text or uploads a PDF. The system sends it to OpenAI API and retu
 
 ## ⚠️ Note
 API key is not included. You need to add your own OpenAI API key in the project.
+## 📷 Screenshots
+![App Screenshot](screenshot.png)
+
+![App Screenshot](screenshot1.png)
+
+![App Screenshot](screenshot2.png)
